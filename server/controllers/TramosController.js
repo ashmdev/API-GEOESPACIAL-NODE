@@ -1,10 +1,11 @@
 const { pool } = require("../database");
 
 module.exports = {
-  getCalles: async () => {
-    const result = await pool.query(
-      'SELECT ST_AsGeoJSON(geom), str_ldesc, shape_len  from red'
-    );
+  getTramos: async (idsv) => {
+    const query =  `SELECT ST_AsGeoJSON(geom)
+                    From red 
+                    where idsv = $1`;
+    const result = await pool.query(query,[idsv]);
     return result.rows;
   }
 };

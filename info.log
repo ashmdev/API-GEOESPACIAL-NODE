@@ -85,3 +85,30 @@
 {"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
 {"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
 {"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 404 / - 2 ms","level":"info"}
+{"message":"GET 404 /favicon.ico - 1 ms","level":"info"}
+{"message":"GET 404 / - 0 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 404 /tramos?idsv=7090 - 1 ms","level":"info"}
+{"message":"GET 404 /tramos?idsv=7090 - 2 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 404 /tramos?idsv=7090 - 2 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 404 /tramos?idsv=7090 - 3 ms","level":"info"}
+{"message":"GET 404 /tramos?idsv=7090 - 1 ms","level":"info"}
+{"message":"GET 404 /tramos?idsv=7090 - 0 ms","level":"info"}
+{"message":"Request Error /tramos/7090 - column \"str_ldesc\" does not exist","level":"error"}
+{"message":"GET 500 /tramos/7090 - 50 ms","level":"info"}
+{"message":"Request Error /tramos/7090 - column \"str_ldesc\" does not exist","level":"error"}
+{"message":"GET 500 /tramos/7090 - 40 ms","level":"info"}
+{"message":"Request Error /tramos/7090 - column \"str_ldesc\" does not exist","level":"error"}
+{"message":"GET 500 /tramos/7090 - 55 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 200 /tramos/7090 - 97 ms","level":"info"}
+{"message":"GET 200 /tramos/7090 - 216 ms","level":"info"}

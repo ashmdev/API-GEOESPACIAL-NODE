@@ -9,6 +9,7 @@
   "author": "Abdelkarin Hadad",
   "license": "ISC",
   "dependencies": {
+    "@koa/cors": "^2.2.3",
     "axios": "^0.19.1",
     "dotenv": "^8.2.0",
     "ioredis": "^4.14.1",
