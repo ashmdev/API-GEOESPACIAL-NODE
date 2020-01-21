@@ -3,3 +3,17 @@
 {"message":"Request Error /tramos/7090 - column \"str_ldesc\" does not exist","level":"error"}
 {"message":"Request Error /tramos/7090 - column \"str_ldesc\" does not exist","level":"error"}
 {"message":"Request Error /tramos/7090 - column \"str_ldesc\" does not exist","level":"error"}
+{"level":"error"}
+{"name":"error","length":178,"severity":"FATAL","code":"28P01","file":"d:\\pginstaller_12.auto\\postgres.windows-x64\\src\\backend\\libpq\\auth.c","line":"333","routine":"auth_failed","level":"error"}
+{"name":"error","length":178,"severity":"FATAL","code":"28P01","file":"d:\\pginstaller_12.auto\\postgres.windows-x64\\src\\backend\\libpq\\auth.c","line":"333","routine":"auth_failed","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'ras' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'tramoid' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'tramoid' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'tramoid' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'tramoid' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - result.map is not a function","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'forEach' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - result.forEach is not a function","level":"error"}
+{"message":"Request Error /test/7090 - result.forEach is not a function","level":"error"}
+{"message":"Request Error /test/7090 - tramos is not defined","level":"error"}
+{"message":"Request Error /test/7090 - tramos is not defined","level":"error"}

@@ -12,8 +12,7 @@ const router = new Router();
 const idsvValidator = validate({
   params: { idsv: joi.number().required() }
 })
-
-const fs = require('fs') 
+//const fs = require('fs') 
 router.get('/tramos/:idsv', idsvValidator, async ctx => {
   const idsv = ctx.params.idsv
   const results = await tramosController.getTramos(idsv)
@@ -21,13 +20,20 @@ router.get('/tramos/:idsv', idsvValidator, async ctx => {
   // Add row metadata as geojson properties
   const locations = results.map((row) => {
     let geojson = JSON.parse(row.st_asgeojson)
-    geojson.properties = { name: 'asdasdad', type: 'asdasdasd', id: 'sdasdadas'}
+    geojson.properties = { identifica: row.identifica, idsv: row.idsv, shape_leng: row.shape_leng , diametro: row.diametro, material: row.material}
     return geojson
   })
   ctx.body = locations
 })
 
-
+router.get('/test/:idsv', idsvValidator, async ctx => {
+  const idsv = ctx.params.idsv
+  const results = await tramosController.getTest(idsv)
+  if (results.length === 0) { ctx.throw(404) }
+  // Add row metadata as geojson properties
+  //console.log(results)
+  ctx.body = results
+})
 module.exports = router
 
 
