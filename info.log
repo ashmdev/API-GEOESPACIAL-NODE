@@ -337,3 +337,8 @@
 {"message":"El server está escuchando en el puerto 5000","level":"info"}
 {"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
 {"message":"GET 200 /test/7090 - 1131 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 461 ms","level":"info"}
+{"message":"GET 200 /test/6061 - 560 ms","level":"info"}
+{"message":"GET 200 /test/6061 - 300 ms","level":"info"}
