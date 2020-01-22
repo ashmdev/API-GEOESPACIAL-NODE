@@ -29,7 +29,7 @@ router.get('/tramos/:idsv', idsvValidator, async ctx => {
 router.get('/test/:idsv', idsvValidator, async ctx => {
   const idsv = ctx.params.idsv
   const results = await tramosController.getTest(idsv)
-  if (results.length === 0) { ctx.throw(404) }
+ // if (results.length === 0) { ctx.throw(404) }
   // Add row metadata as geojson properties
   //console.log(results)
   ctx.body = results

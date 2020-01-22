@@ -202,3 +202,138 @@
 {"message":"El server está escuchando en el puerto 5000","level":"info"}
 {"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
 {"message":"GET 200 /test/7090 - 447 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"name":"error","length":159,"severity":"FATAL","code":"28000","file":"auth.c","line":"512","routine":"ClientAuthentication","level":"error"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"name":"error","length":158,"severity":"FATAL","code":"28000","file":"auth.c","line":"512","routine":"ClientAuthentication","level":"error"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"name":"error","length":158,"severity":"FATAL","code":"28000","file":"auth.c","line":"512","routine":"ClientAuthentication","level":"error"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 443 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 544 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 480 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \"$1\"","level":"error"}
+{"message":"GET 500 /test/7090 - 1206 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \":\"","level":"error"}
+{"message":"GET 500 /test/7090 - 451 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \":\"","level":"error"}
+{"message":"GET 500 /test/7090 - 471 ms","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \":\"","level":"error"}
+{"message":"GET 500 /test/7090 - 456 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - type \"list\" does not exist","level":"error"}
+{"message":"GET 500 /test/7090 - 455 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \"array\"","level":"error"}
+{"message":"GET 500 /test/7090 - 638 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - operator does not exist: integer = integer[]","level":"error"}
+{"message":"GET 500 /test/7090 - 688 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - operator does not exist: integer = integer[]","level":"error"}
+{"message":"GET 500 /test/7090 - 439 ms","level":"info"}
+{"message":"Request Error /test/7090 - operator does not exist: integer = integer[]","level":"error"}
+{"message":"GET 500 /test/7090 - 450 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - subquery in FROM must have an alias","level":"error"}
+{"message":"GET 500 /test/7090 - 460 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \"as\"","level":"error"}
+{"message":"GET 500 /test/7090 - 433 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - bind message supplies 96 parameters, but prepared statement \"\" requires 1","level":"error"}
+{"message":"GET 500 /test/7090 - 458 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - type \"list\" does not exist","level":"error"}
+{"message":"GET 500 /test/7090 - 441 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - syntax error at or near \"array\"","level":"error"}
+{"message":"GET 500 /test/7090 - 450 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - bind message supplies 96 parameters, but prepared statement \"\" requires 1","level":"error"}
+{"message":"GET 500 /test/7090 - 432 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 613 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 655 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - bind message supplies 96 parameters, but prepared statement \"\" requires 1","level":"error"}
+{"message":"GET 500 /test/7090 - 482 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - Cannot read property 'rows' of undefined","level":"error"}
+{"message":"GET 500 /test/7090 - 941 ms","level":"info"}
+{"message":"Request Error /test/7090 - Cannot read property 'rows' of undefined","level":"error"}
+{"message":"GET 500 /test/7090 - 942 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - Cannot read property 'length' of undefined","level":"error"}
+{"message":"GET 500 /test/7090 - 957 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - Cannot read property 'length' of undefined","level":"error"}
+{"message":"GET 500 /test/7090 - 1461 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 204 /test/7090 - 928 ms","level":"info"}
+{"message":"GET 204 /test/7090 - 377 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 863 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - Cannot read property '0' of undefined","level":"error"}
+{"message":"GET 500 /test/7090 - 1114 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 204 /test/7090 - 956 ms","level":"info"}
+{"message":"GET 204 /test/7090 - 523 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 1289 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 783 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 782 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 532 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 1213 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 813 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 773 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"Request Error /test/7090 - column \"idflujo\" does not exist","level":"error"}
+{"message":"GET 500 /test/7090 - 828 ms","level":"info"}
+{"message":"GET 404 /favicon.ico - 0 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 190.164.205.168:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 1131 ms","level":"info"}

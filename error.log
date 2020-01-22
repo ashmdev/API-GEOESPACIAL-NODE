@@ -17,3 +17,28 @@
 {"message":"Request Error /test/7090 - result.forEach is not a function","level":"error"}
 {"message":"Request Error /test/7090 - tramos is not defined","level":"error"}
 {"message":"Request Error /test/7090 - tramos is not defined","level":"error"}
+{"name":"error","length":159,"severity":"FATAL","code":"28000","file":"auth.c","line":"512","routine":"ClientAuthentication","level":"error"}
+{"name":"error","length":158,"severity":"FATAL","code":"28000","file":"auth.c","line":"512","routine":"ClientAuthentication","level":"error"}
+{"name":"error","length":158,"severity":"FATAL","code":"28000","file":"auth.c","line":"512","routine":"ClientAuthentication","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \"$1\"","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \":\"","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \":\"","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \":\"","level":"error"}
+{"message":"Request Error /test/7090 - type \"list\" does not exist","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \"array\"","level":"error"}
+{"message":"Request Error /test/7090 - operator does not exist: integer = integer[]","level":"error"}
+{"message":"Request Error /test/7090 - operator does not exist: integer = integer[]","level":"error"}
+{"message":"Request Error /test/7090 - operator does not exist: integer = integer[]","level":"error"}
+{"message":"Request Error /test/7090 - subquery in FROM must have an alias","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \"as\"","level":"error"}
+{"message":"Request Error /test/7090 - bind message supplies 96 parameters, but prepared statement \"\" requires 1","level":"error"}
+{"message":"Request Error /test/7090 - type \"list\" does not exist","level":"error"}
+{"message":"Request Error /test/7090 - syntax error at or near \"array\"","level":"error"}
+{"message":"Request Error /test/7090 - bind message supplies 96 parameters, but prepared statement \"\" requires 1","level":"error"}
+{"message":"Request Error /test/7090 - bind message supplies 96 parameters, but prepared statement \"\" requires 1","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'rows' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'rows' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'length' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property 'length' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - Cannot read property '0' of undefined","level":"error"}
+{"message":"Request Error /test/7090 - column \"idflujo\" does not exist","level":"error"}
