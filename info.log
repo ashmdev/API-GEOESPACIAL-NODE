@@ -342,3 +342,74 @@
 {"message":"GET 200 /test/7090 - 461 ms","level":"info"}
 {"message":"GET 200 /test/6061 - 560 ms","level":"info"}
 {"message":"GET 200 /test/6061 - 300 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 404 / - 0 ms","level":"info"}
+{"message":"GET 404 /favicon.ico - 0 ms","level":"info"}
+{"message":"GET 404 /test - 0 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 329 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 200 /test/7337 - 1882 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"Request Error /test/7090 - column ras.ge does not exist","level":"error"}
+{"message":"GET 500 /test/7090 - 64 ms","level":"info"}
+{"message":"GET 404 /favicon.ico - 0 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}
+{"message":"GET 200 /test/7090 - 432 ms","level":"info"}
+{"message":"GET 200 /test/7337 - 1331 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 4 ms","level":"info"}
+{"message":"Request Error /test/6062 - Connection terminated due to connection timeout","level":"error"}
+{"message":"GET 500 /test/6062 - 2013 ms","level":"info"}
+{"message":"GET 200 /test/6062 - 321 ms","level":"info"}
+{"message":"GET 200 /test/6062 - 4 ms","level":"info"}
+{"message":"GET 200 /test/6062 - 0 ms","level":"info"}
+{"message":"GET 200 /test/6062 - 0 ms","level":"info"}
+{"message":"GET 200 /test/6062 - 0 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 4 ms","level":"info"}
+{"message":"Request Error /test/6061 - Connection terminated due to connection timeout","level":"error"}
+{"message":"GET 500 /test/6061 - 2005 ms","level":"info"}
+{"message":"Request Error /test/6061 - Connection terminated due to connection timeout","level":"error"}
+{"message":"GET 500 /test/6061 - 2005 ms","level":"info"}
+{"message":"GET 200 /test/6061 - 396 ms","level":"info"}
+{"message":"GET 200 /test/6061 - 8 ms","level":"info"}
+{"message":"GET 200 /test/6061 - 4 ms","level":"info"}
+{"message":"GET 200 /test/6061 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7090 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7091 - 1626 ms","level":"info"}
+{"message":"GET 200 /test/7091 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7091 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7091 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7091 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7092 - 304 ms","level":"info"}
+{"message":"GET 200 /test/7094 - 645 ms","level":"info"}
+{"message":"GET 200 /test/7094 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7094 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 1402 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 0 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 8 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 0 ms","level":"info"}
+{"message":"GET 200 /test/7095 - 4 ms","level":"info"}
+{"message":"El server está escuchando en el puerto 5000","level":"info"}
+{"message":"Conectado a la base de datos: bd_espacial en el servidor: 192.168.0.38:5432","level":"info"}

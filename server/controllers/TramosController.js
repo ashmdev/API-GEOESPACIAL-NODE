@@ -34,7 +34,7 @@ module.exports = {
     // elimino elementos repetidos
     tramos=Array.from(new Set(tramos));
     camaras=Array.from(new Set(camaras));
-
+    console.log(tramos)
     let consultaTramos = 
       `SELECT jsonb_build_object(
         'type',     'FeatureCollection',

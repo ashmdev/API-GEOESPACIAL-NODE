@@ -8,33 +8,34 @@ const tramosController = require(__dirname+'./../server/controllers/TramosContro
 //const callesController = require(__dirname+'./../server/controllers/CamarasController');
 //const callesController = require(__dirname+'./../server/controllers/FlujosController');
 const router = new Router();
-
+router.use(cache.checkResponseCache);
+router.use(cache.addResponseToCache);
 const idsvValidator = validate({
   params: { idsv: joi.number().required() }
-})
+});
 //const fs = require('fs') 
 router.get('/tramos/:idsv', idsvValidator, async ctx => {
-  const idsv = ctx.params.idsv
-  const results = await tramosController.getTramos(idsv)
-  if (results.length === 0) { ctx.throw(404) }
+  const idsv = ctx.params.idsv;
+  const results = await tramosController.getTramos(idsv);
+  if (results.length === 0) { ctx.throw(404); }
   // Add row metadata as geojson properties
   const locations = results.map((row) => {
-    let geojson = JSON.parse(row.st_asgeojson)
-    geojson.properties = { identifica: row.identifica, idsv: row.idsv, shape_leng: row.shape_leng , diametro: row.diametro, material: row.material}
-    return geojson
-  })
-  ctx.body = locations
-})
+    let geojson = JSON.parse(row.st_asgeojson);
+    geojson.properties = { identifica: row.identifica, idsv: row.idsv, shape_leng: row.shape_leng , diametro: row.diametro, material: row.material};
+    return geojson;
+  });
+  ctx.body = locations;
+});
 
 router.get('/test/:idsv', idsvValidator, async ctx => {
-  const idsv = ctx.params.idsv
-  const results = await tramosController.getTest(idsv)
+  const idsv = ctx.params.idsv;
+  const results = await tramosController.getTest(idsv);
  // if (results.length === 0) { ctx.throw(404) }
   // Add row metadata as geojson properties
   //console.log(results)
-  ctx.body = results
+  ctx.body = results;
 })
-module.exports = router
+module.exports = router;
 
 
 

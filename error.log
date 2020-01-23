@@ -42,3 +42,7 @@
 {"message":"Request Error /test/7090 - Cannot read property 'length' of undefined","level":"error"}
 {"message":"Request Error /test/7090 - Cannot read property '0' of undefined","level":"error"}
 {"message":"Request Error /test/7090 - column \"idflujo\" does not exist","level":"error"}
+{"message":"Request Error /test/7090 - column ras.ge does not exist","level":"error"}
+{"message":"Request Error /test/6062 - Connection terminated due to connection timeout","level":"error"}
+{"message":"Request Error /test/6061 - Connection terminated due to connection timeout","level":"error"}
+{"message":"Request Error /test/6061 - Connection terminated due to connection timeout","level":"error"}
